@@ -38,7 +38,9 @@
 ---
 
 
+### 🔥 Contribution Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavDim&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=github_dark&hide_border=true)
 
 ### 📊 Contribution Graph
