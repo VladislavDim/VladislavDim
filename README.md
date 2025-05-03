@@ -1,10 +1,3 @@
-<h1 align="center">Hi there, I'm Vladislav 👋</h1>
-
-<p align="center">
-  <strong>Full Stack JavaScript Developer | MERN Stack</strong><br>
-  Passionate about building clean, functional, and user-friendly web apps.
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
