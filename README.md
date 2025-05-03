@@ -37,20 +37,13 @@
 - 🧾 [**BiteReview**](https://github.com/VladislavDim/bite-review): Full-stack restaurant review platform with ratings, authentication, and rich UI.
 ---
 
-### 📈 GitHub Stats
-![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavDim&show_icons=true&theme=github_dark)
 
----
 
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VladislavDim&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=github_dark&hide_border=true)
 
 ### 📊 Contribution Graph
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavDim&theme=github-compact&hide_border=true)
+---
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gumumpo6/)
