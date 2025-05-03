@@ -1,6 +1,6 @@
 ### 🛠️ Tech Stack
 
-**Frontend**:  
+- **Frontend**:  
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=darkgray)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=darkgray)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=darkgray)
