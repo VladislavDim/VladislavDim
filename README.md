@@ -53,7 +53,3 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavDim&theme=github-compact&hide_border=true)
 
 ---
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/gumumpo6/)
