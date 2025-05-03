@@ -1,64 +1,27 @@
 ### 🛠️ Tech Stack
 
-**Frontend**  
-<a href="https://reactjs.org/" title="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
+**Frontend**:  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=darkgray)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**Backend**  
-<a href="https://nodejs.org/" title="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" title="Express.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" title="MongoDB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
+- **Other**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+  ![Multer](https://img.shields.io/badge/Multer-00C7B7?style=flat)
 
----
-
-**Other**  
-<a href="https://git-scm.com/" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-<a href="https://github.com/" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-<a href="#" title="REST API">
-  <img src="https://img.icons8.com/external-outline-juicy-fish/40/000000/external-api-coding-and-development-outline-outline-juicy-fish.png" width="40" height="40"/>
-</a>
-<a href="https://jwt.io/" title="JWT">
-  <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="40" height="40"/>
-</a>
-<a href="https://github.com/expressjs/multer" title="Multer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/40/000000/external-upload-coding-and-development-flat-flat-juicy-fish.png" width="40" height="40"/>
-</a>
-
----
-
-**Additional Experience**  
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/" title="SQL Server">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/en-us/" title=".NET Core">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-</a>
-
+- **Additional Experience**:  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
 
 ---
 
