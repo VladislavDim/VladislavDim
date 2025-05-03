@@ -32,20 +32,29 @@
   ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
   ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-
-### 📌 Projects (Pinned)
-- 🧾 [**BiteReview**](https://github.com/VladislavDim/bite-review): Full-stack restaurant review platform with ratings, authentication, and rich UI.
 ---
 
+### 📌 Featured Project
 
-### 🔥 Contribution Streak
+- 🧾 [**BiteReview**](https://github.com/VladislavDim/bite-review)  
+  Full-stack restaurant review platform with ratings, authentication, and responsive UI.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavDim&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
+
+### 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=github_dark&hide_border=true)
 
-### 📊 Contribution Graph
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VladislavDim&theme=dark&hide_border=true)](https://github.com/VladislavDim)
+
+---
+
+### 📈 Contribution Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavDim&theme=github-compact&hide_border=true)
+
 ---
 
 ### 📫 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/gumumpo6/)
