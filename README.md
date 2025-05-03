@@ -46,6 +46,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=github_dark&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VladislavDim&theme=dark&hide_border=true)](https://github.com/VladislavDim)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VladislavDim&theme=dark&hide_border=true)](https://github.com/VladislavDim)
 
 ---
 
