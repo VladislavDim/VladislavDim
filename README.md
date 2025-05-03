@@ -42,5 +42,15 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VladislavDim&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavDim&theme=github-compact&hide_border=true)
+
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gumumpo6/)
