@@ -42,7 +42,7 @@ const techStack = {
 
 ### 📌 Featured Project
 
-- 🗞 [**BiteReview**](https://github.com/VladislavDim/bite-review)  
+- 🍽️ [**BiteReview**](https://github.com/VladislavDim/bite-review)  
   Full-stack restaurant review platform with ratings, authentication, and responsive UI.  
   ![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=white)
