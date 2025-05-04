@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007acc&center=true&vCenter=true&width=435&lines=const+techStack+%3D+%7B"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=800&color=007acc&center=true&vCenter=true&width=500&lines=const+techStack+%3D+%7B;frontend:+%5B+%22React%22,+%22TailwindCSS%22,+%22HTML5%22,+%22CSS3%22,+%22lit-html%22,+%22Page.js%22+%5D;backend:+%5B+%22Node.js%22,+%22Express.js%22,+%22MongoDB%22,+%22Mongoose%22+%5D;other:+%5B+%22Git%22,+%22GitHub%22,+%22REST+API%22,+%22JWT%22,+%22Multer%22,+%22Handlebars%22,+%22Mocha%22,+%22Chai%22+%5D;additionalExperience:+%5B+%22C%23%22,+%22SQL+Server%22,+%22.NET+Core%22+%5D+%7D"/>
 
 ```js
 const techStack = {
