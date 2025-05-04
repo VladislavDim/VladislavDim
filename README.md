@@ -1,27 +1,36 @@
-### 🛠️ Tech Stack
-
-- **Frontend**:  
-  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=white)
-
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb&logoColor=white)
-
-- **Other**:  
-  ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
-  ![REST API](https://img.shields.io/badge/REST_API-333333?style=flat&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=white)
-  ![Multer](https://img.shields.io/badge/Multer-333333?style=flat&logoColor=white)
-
-- **Additional Experience**:  
-  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
-  ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat&logo=microsoftsqlserver&logoColor=white)
-  ![.NET Core](https://img.shields.io/badge/.NET-333333?style=flat&logo=dotnet&logoColor=white)
+```js
+const techStack = {
+  frontend: [
+    "React",
+    "TailwindCSS",
+    "HTML5",
+    "CSS3",
+    "lit-html",
+    "Page.js"
+  ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  other: [
+    "Git",
+    "GitHub",
+    "REST API",
+    "JWT",
+    "Multer",
+    "Handlebars",
+    "Mocha",
+    "Chai"
+  ],
+  additionalExperience: [
+    "C#",
+    "SQL Server",
+    ".NET Core"
+  ]
+};
+```
 
 ---
 
