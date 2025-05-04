@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007acc&center=true&vCenter=true&width=435&lines=const+techStack+%3D+%7B"/>
 
