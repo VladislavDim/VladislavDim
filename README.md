@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007acc&width=435&lines=Hi%2C+I'm+Vladislav+%F0%9F%91%8B;Full+Stack+JavaScript+Developer;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=007acc&center=false&vCenter=false&width=435&lines=Hi%2C+I'm+Vladislav+%F0%9F%91%8B;Full+Stack+JavaScript+Developer;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB"/>
 
 ```ts
 const techStack = {
