@@ -9,30 +9,27 @@ const techStack = {
     "React",
     "TailwindCSS",
     "HTML5",
-    "CSS3",
-    "lit-html",
-    "Page.js"
+    "CSS3"
   ],
   backend: [
     "Node.js",
     "Express.js",
+    "ASP.NET Core",
     "MongoDB",
-    "Mongoose"
+    "SQL Server"
   ],
-  other: [
+  toolsAndPractices: [
     "Git",
     "GitHub",
     "REST API",
     "JWT",
-    "Multer",
-    "Handlebars",
-    "Mocha",
-    "Chai"
+    "Postman",
+    "Docker",
+    "OOP"
   ],
-  additionalExperience: [
-    "C#",
-    "SQL Server",
-    ".NET Core"
+  languages: [
+    "JavaScript",
+    "C#"
   ]
 };
 ```
