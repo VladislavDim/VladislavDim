@@ -38,7 +38,7 @@ const techStack = {
 
 ---
 
-### 📌 Featured Project
+## 📌 Featured Project
 
 - 🍽️ [**BiteReview**](https://github.com/VladislavDim/bite-review)  
   Full-stack restaurant review platform with ratings, authentication, and responsive UI.  
@@ -50,29 +50,14 @@ const techStack = {
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavDim&theme=github-compact&hide_border=true)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VladislavDim&theme=dark&hide_border=true)](https://github.com/VladislavDim)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=github_dark&hide_border=true)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/VladislavDim">
-    <img height="180em" src="https://streak-stats.demolab.com?user=VladislavDim&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/VladislavDim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladislavDim&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/VladislavDim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavDim&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
